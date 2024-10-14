@@ -8,6 +8,7 @@ public class TestGitCommitMerge  {
 	public void test() {
 		
 		System.out.println("Nanditha created clone of Varsha repo and created a test class");
+		System.out.println("New Fork");
 	}
 
 	}
